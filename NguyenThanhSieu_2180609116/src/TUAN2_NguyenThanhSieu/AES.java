@@ -17,8 +17,7 @@ import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 import javax.swing.JOptionPane;
-import sun.misc.BASE64Encoder;
-
+import java.util.Base64;
 /**
  *
  * @author Administrator
