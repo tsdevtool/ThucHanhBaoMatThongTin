@@ -1,0 +1,9 @@
+THÀNH PHẦN ĐIỂM KTGK
+- THIẾT KẾ FORM ENCRYPT: 0,5 Đ
+- MÃ HOÁ E1:2,0 Đ
+- NỐI CHUỖI: 0,5 Đ
+- MÃ HOÁ E2:2,0 Đ
+- THIẾT KẾ FORM DECRYPT: 0,5 Đ
+- GIẢI MÃ E2:2,0 Đ
+- TÁCH CHUỖI: 0,5 Đ
+- GIẢI MÃ E1:2,0 Đ
